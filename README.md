@@ -1,4 +1,4 @@
-# 🏫 SafeCampus FunLearn – Complete Disaster Preparedness Education Platform
+#Disaster Prep EDU  – Complete Disaster Preparedness Education Platform
 
 [![React](https://img.shields.io/badge/React-18.3.1-blue.svg)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-Express-green.svg)](https://nodejs.org/)
